@@ -1,0 +1,1573 @@
+{
+  "current": {
+    "sections": {
+      "footer": {
+        "settings": {
+          "text_color": "",
+          "copyright_text_color": "",
+          "powered_by_text_color": "",
+          "background_color": "#161E2A",
+          "hide_on_desktop": "false",
+          "vertical_layout": "false",
+          "hide_on_mobile": "false",
+          "font_size_desktop": "18px",
+          "font_size_mobile": "16px"
+        },
+        "block_order": [
+          "1555988519593",
+          "1602193175296",
+          "1555988525205",
+          "1626483584843"
+        ],
+        "type": "footer",
+        "hidden": "false",
+        "name": "Footer",
+        "blocks": {
+          "1555988519593": {
+            "settings": {
+              "logo_type": "image",
+              "logo": "themes/2148335099/settings_images/x7fvkLb4SQCkVAU8SzNK_file.jpg",
+              "image_alt": "Footer Logo",
+              "logo_width": "160",
+              "logo_text": "",
+              "logo_text_color": ""
+            },
+            "type": "logo",
+            "name": "Logo",
+            "hidden": "false"
+          },
+          "1602193175296": {
+            "settings": {
+              "menu": "main-menu",
+              "new_tab": "false",
+              "link_color": "",
+              "vertical": "row",
+              "text_align": "right",
+              "mobile_text_align": "center"
+            },
+            "type": "link_list",
+            "name": "Link List",
+            "hidden": "false"
+          },
+          "1555988525205": {
+            "settings": {
+              "copyright": "AirTight Management"
+            },
+            "type": "copyright",
+            "name": "Copyright",
+            "hidden": "false"
+          },
+          "1626483584843": {
+            "settings": {
+              "new_tab": "false",
+              "social_icons_text_color": "",
+              "social_icons_background_color": "",
+              "social_icon_background_style": "",
+              "social_icon_link_facebook": "https://www.facebook.com/kajabi",
+              "social_icon_link_twitter": "https://www.twitter.com/kajabi",
+              "social_icon_link_instagram": "https://www.instagram.com/kajabi",
+              "social_icon_link_youtube": "",
+              "social_icon_link_pinterest": "",
+              "social_icon_link_vimeo": "",
+              "social_icon_link_github": "",
+              "social_icon_link_itunes": "",
+              "social_icon_link_linkedin": "",
+              "social_icon_link_soundcloud": "",
+              "social_icon_link_yelp": "",
+              "social_icon_link_tumblr": "",
+              "social_icon_link_slack": "",
+              "social_icon_link_flickr": "",
+              "social_icon_link_dribbble": "",
+              "social_icon_link_tiktok": "",
+              "social_icon_link_medium": "",
+              "social_icon_link_spotify": "",
+              "social_icon_link_podcasts": ""
+            },
+            "type": "social_icons",
+            "name": "Social Icons",
+            "hidden": "false"
+          }
+        }
+      },
+      "header": {
+        "settings": {
+          "text_color": "",
+          "background_color": "#ffffff",
+          "position": "static",
+          "sticky": "true",
+          "sticky_text_color": "",
+          "sticky_background_color": "#ffffff",
+          "hide_on_desktop": "true",
+          "horizontal": "left",
+          "mobile_header_text_color": "",
+          "mobile_header_background_color": "",
+          "hide_on_mobile": "false",
+          "close_on_scroll": "true",
+          "mobile_menu_text_alignment": "left",
+          "hamburger_color": "",
+          "sticky_hamburger_color": "",
+          "font_size_desktop": "18px",
+          "font_size_mobile": "16px"
+        },
+        "block_order": [
+          "1555988494486",
+          "1555988491313",
+          "1555988487706"
+        ],
+        "type": "header",
+        "hidden": "false",
+        "name": "Header",
+        "blocks": {
+          "1555988494486": {
+            "settings": {
+              "logo_type": "image",
+              "logo": "themes/2148335099/settings_images/LJN0YzNNToCvNa3Jbgqj_file.jpg",
+              "image_alt": "Header Logo",
+              "logo_width": "180",
+              "logo_text": "The CEO & Entrepreneur Boot Camp",
+              "logo_text_color": "",
+              "stretch": "false",
+              "alignment": "left"
+            },
+            "type": "logo",
+            "name": "Logo",
+            "hidden": "true"
+          },
+          "1555988491313": {
+            "settings": {
+              "menu": "main-menu",
+              "new_tab": "false",
+              "stretch": "true",
+              "alignment": "right"
+            },
+            "type": "menu",
+            "name": "Menu",
+            "hidden": "true"
+          },
+          "1555988487706": {
+            "settings": {
+              "text_color": "#595959",
+              "background_color": "#FFFFFF",
+              "language_login": "Log In",
+              "language_logout": "Log Out",
+              "language_settings": "Settings",
+              "language_library": "My Library",
+              "user_dropdown_menu_alignment": "left",
+              "stretch": "false",
+              "alignment": "left"
+            },
+            "type": "user",
+            "name": "User Menu",
+            "hidden": "true"
+          }
+        }
+      },
+      "exit_pop": {
+        "settings": {
+          "modal_edit": "false",
+          "enable_modal": "false",
+          "frequency": "0",
+          "popup_reveal": "0",
+          "background_color": "",
+          "vertical": "start",
+          "horizontal": "left",
+          "make_flush": "false"
+        },
+        "block_order": [
+          "1585757552293",
+          "1585757555485"
+        ],
+        "type": "exit_pop",
+        "hidden": "false",
+        "name": "Exit Popup",
+        "blocks": {
+          "1585757552293": {
+            "settings": {
+              "width": "12",
+              "image": "",
+              "image_alt": "",
+              "img_action": "",
+              "image_width": "",
+              "new_tab": "false",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "image_align_desktop": "flex-start",
+              "hide_on_desktop": "false",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "image_align_mobile": "flex-start",
+              "hide_on_mobile": "false",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "image_first": "false",
+              "enable_overlay": "false",
+              "always_show_on_mobile": "false",
+              "overlay_background_color": "#fff",
+              "overlay_text_color": "",
+              "overlay_text": "Click Here for More Details"
+            },
+            "type": "image",
+            "name": "Image",
+            "hidden": "false"
+          },
+          "1585757555485": {
+            "settings": {
+              "width": "12",
+              "form": "",
+              "thank_you": "",
+              "text": "<h4>Join Our Free Trial</h4>\r\n<p>Get started today before this once in a lifetime opportunity expires.</p>",
+              "disclaimer_text": "",
+              "disclaimer_text_color": "#888",
+              "input_label": "placeholder",
+              "inline": "false",
+              "btn_text": "Submit",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              }
+            },
+            "type": "form",
+            "name": "Form",
+            "hidden": "false"
+          }
+        }
+      },
+      "two_step": {
+        "settings": {
+          "two_step_edit": "false",
+          "background_color": "",
+          "vertical": "start",
+          "horizontal": "left",
+          "make_flush": "false"
+        },
+        "block_order": [
+          "1585757540189",
+          "1585757543890"
+        ],
+        "type": "two_step",
+        "hidden": "false",
+        "name": "Two Step Optin",
+        "blocks": {
+          "1585757540189": {
+            "settings": {
+              "width": "12",
+              "image": "",
+              "image_alt": "",
+              "img_action": "",
+              "image_width": "",
+              "new_tab": "false",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "image_align_desktop": "flex-start",
+              "hide_on_desktop": "false",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "image_align_mobile": "flex-start",
+              "hide_on_mobile": "false",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "image_first": "false",
+              "enable_overlay": "false",
+              "always_show_on_mobile": "false",
+              "overlay_background_color": "#fff",
+              "overlay_text_color": "",
+              "overlay_text": "Click Here for More Details"
+            },
+            "type": "image",
+            "name": "Image",
+            "hidden": "false"
+          },
+          "1585757543890": {
+            "settings": {
+              "width": "12",
+              "form": "",
+              "thank_you": "",
+              "text": "<h4>Join Our Free Trial</h4>\r\n<p>Get started today before this once in a lifetime opportunity expires.</p>",
+              "disclaimer_text": "",
+              "disclaimer_text_color": "#888",
+              "input_label": "placeholder",
+              "inline": "false",
+              "btn_text": "Submit",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              }
+            },
+            "type": "form",
+            "name": "Form",
+            "hidden": "false"
+          }
+        }
+      },
+      "1606169525641": {
+        "block_order": [
+          "1606169525641_0",
+          "1626467420622",
+          "1626478516748",
+          "1626470362990",
+          "1626481653116"
+        ],
+        "settings": {
+          "bg_type": "image",
+          "bg_video": "",
+          "bg_image": "themes/2148335099/settings_images/T4okjKZfQLChA7NK9lTw_Screen_Shot_2021-07-16_at_5.35.28_PM.png",
+          "bg_position": "center",
+          "background_fixed": "false",
+          "background_color": "",
+          "hide_on_desktop": "false",
+          "padding_desktop": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "vertical": "center",
+          "horizontal": "center",
+          "equal_height": "false",
+          "full_width": "false",
+          "full_height": "false",
+          "hide_on_mobile": "false",
+          "padding_mobile": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "reveal_event": "",
+          "reveal_offset": "",
+          "reveal_units": "seconds"
+        },
+        "type": "section",
+        "hidden": "false",
+        "name": "Form+call to action",
+        "blocks": {
+          "1606169525641_0": {
+            "settings": {
+              "width": "11",
+              "text": "<h2 style=\"text-align: left;\"><span style=\"color: #1a303f;\">Free Webinar:&nbsp;</span><span style=\"color: #1a303f;\"><br />Learn to Raise&nbsp;Millions <br />From Outside Investors For<br />Any Company</span></h2>",
+              "use_btn": "false",
+              "btn_text": "Sign Up Now",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "#e67e22",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": "-30"
+              },
+              "margin_desktop": {
+                "top": "-12",
+                "left": "0",
+                "right": "",
+                "bottom": "29"
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "fade",
+              "animation_direction": "up",
+              "delay": "0",
+              "duration": "1000",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          },
+          "1626467420622": {
+            "settings": {
+              "width": "4",
+              "form": "2147583415",
+              "thank_you": "",
+              "text": "<h4>&nbsp;</h4>\r\n<h4>Join Webinar &amp;</h4>\r\n<h3>RESERVE YOUR SEAT</h3>\r\n<p>&nbsp;</p>",
+              "disclaimer_text": "We will not Spam your emails.",
+              "disclaimer_text_color": "#95a5a6",
+              "input_label": "placeholder",
+              "inline": "false",
+              "btn_text": "Sign Up",
+              "btn_background_color": "#27ae60",
+              "btn_text_color": "",
+              "btn_width": "auto",
+              "btn_size": "medium",
+              "btn_border_radius": "",
+              "background_color": "#2980b9",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "0",
+                "left": "",
+                "right": "6",
+                "bottom": "-119"
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "form",
+            "name": "Form",
+            "hidden": "false"
+          },
+          "1626478516748": {
+            "settings": {
+              "width": "7",
+              "image": "themes/2148335099/settings_images/rwcutMVyTCCzbrfayeiB_xZyq9UPw-removebg-preview.png",
+              "img_action": "",
+              "image_width": "430",
+              "image_border_radius": "4",
+              "image_caption": "",
+              "image_alt": "",
+              "new_tab": "false",
+              "gallery": "false",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "0",
+              "box_shadow": "none",
+              "image_align_desktop": "flex-start",
+              "hide_on_desktop": "false",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "-25",
+                "left": "",
+                "right": "",
+                "bottom": "0"
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "image_align_mobile": "flex-start",
+              "hide_on_mobile": "false",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "image_first": "false",
+              "enable_overlay": "false",
+              "always_show_on_mobile": "false",
+              "overlay_background_color": "#fff",
+              "overlay_text_color": "",
+              "overlay_text": "Click Here for More Details",
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "image",
+            "name": "Image",
+            "hidden": "false"
+          },
+          "1626470362990": {
+            "settings": {
+              "width": "6",
+              "text": "<h4><span style=\"color: #ecf0f1;\">September 9th, 2021 | 11 AM - 2 PM EST</span></h4>\r\n<p><span style=\"color: #95a5a6;\">Austin, TX</span></p>",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "left",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "0",
+                "right": "-300",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          },
+          "1626481653116": {
+            "settings": {
+              "width": "8",
+              "event": "156666",
+              "title": "",
+              "description": "It's gonna be epic. Will you be joining us?",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "title_size": "",
+              "title_size_mobile": "",
+              "title_color": "#ffffff",
+              "description_color": "",
+              "date_size": "",
+              "date_size_mobile": "",
+              "date_color": "#ffffff",
+              "format": "dddd, MMMM D",
+              "show_year": "true",
+              "show_time": "true",
+              "show_timezone": "true",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "true",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "true",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "event",
+            "name": "Event",
+            "hidden": "false"
+          }
+        }
+      },
+      "1606169791066": {
+        "block_order": [
+          "1606169791066_0",
+          "1606169791066_1"
+        ],
+        "settings": {
+          "bg_type": "none",
+          "bg_video": "",
+          "bg_image": "",
+          "bg_position": "center",
+          "background_fixed": "false",
+          "background_color": "#102e42",
+          "hide_on_desktop": "true",
+          "padding_desktop": {
+            "top": "-50",
+            "left": "",
+            "right": "",
+            "bottom": "-50"
+          },
+          "vertical": "center",
+          "horizontal": "center",
+          "equal_height": "false",
+          "full_width": "false",
+          "full_height": "false",
+          "hide_on_mobile": "false",
+          "padding_mobile": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "reveal_event": "",
+          "reveal_offset": "",
+          "reveal_units": "seconds"
+        },
+        "type": "section",
+        "hidden": "false",
+        "name": "EventCountdownOrigin",
+        "blocks": {
+          "1606169791066_0": {
+            "settings": {
+              "width": "8",
+              "event": "2147532505",
+              "title": "Raise Capital for Any Company Webinar",
+              "description": "It's gonna be epic. Will you be joining us?",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "title_size": "32px",
+              "title_size_mobile": "",
+              "title_color": "",
+              "description_color": "",
+              "date_size": "20px",
+              "date_size_mobile": "",
+              "date_color": "",
+              "format": "dddd, MMMM D",
+              "show_year": "true",
+              "show_time": "true",
+              "show_timezone": "true",
+              "background_color": "#ffffff",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "event",
+            "name": "Event",
+            "hidden": "false"
+          },
+          "1606169791066_1": {
+            "settings": {
+              "width": "8",
+              "event": "2147532505",
+              "style": "",
+              "enable_end_action": "true",
+              "end_action": "",
+              "remove_section_on_complete": "false",
+              "number_background_color": "",
+              "number_color": "",
+              "number_border_radius": "4",
+              "label_color": "",
+              "days": "DAYS",
+              "hours": "HOURS",
+              "minutes": "MINS",
+              "seconds": "SECS",
+              "background_color": "#e67e22",
+              "border_type": "solid",
+              "border_width": "9",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "countdown",
+            "name": "Countdown",
+            "hidden": "false"
+          }
+        }
+      },
+      "1606169938567": {
+        "block_order": [
+          "1606169938567_0",
+          "1626406064850",
+          "1626480331634"
+        ],
+        "settings": {
+          "bg_type": "none",
+          "bg_video": "",
+          "bg_image": "",
+          "bg_position": "center",
+          "background_fixed": "false",
+          "background_color": "#f7f9fc",
+          "hide_on_desktop": "false",
+          "padding_desktop": {
+            "top": "0",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "vertical": "center",
+          "horizontal": "center",
+          "equal_height": "false",
+          "full_width": "false",
+          "full_height": "false",
+          "hide_on_mobile": "false",
+          "padding_mobile": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "reveal_event": "",
+          "reveal_offset": "",
+          "reveal_units": "seconds"
+        },
+        "type": "section",
+        "hidden": "false",
+        "name": "Text: what you'll learn + About Bob",
+        "blocks": {
+          "1606169938567_0": {
+            "settings": {
+              "width": "8",
+              "text": "<h3>What You Will Learn...</h3>\r\n<ul>\r\n<li>How to <strong>raise millions for any company </strong>at the best valuation possible given your stage of development</li>\r\n<li style=\"list-style-type: none;\"></li>\r\n<li>Learn how to plan your financing strategy and runway to limit risk and maximize your valuation. Which minimizes dilution of the founders and could mean the difference between owning 20% or 50% of your company when you no longer need capital.</li>\r\n<li>\r\n<p>Be able to identify the <strong>right investors</strong> to approach&nbsp;</p>\r\n</li>\r\n<li>\r\n<p>Understand the<strong> level of team</strong> you need to be successful in raising outside funding. Objectively, as most founding teams lack required skills.</p>\r\n</li>\r\n<li>\r\n<p>Understand <strong>where your company needs to be</strong> in terms of the plan, product development, and other factors to drive up your chances of success&nbsp;</p>\r\n</li>\r\n<li>\r\n<p>Be able to develop a<strong> strong financing strategy </strong>for the next two to five years that will impress investors</p>\r\n</li>\r\n<li>\r\n<p>Be able to create a pitch deck and market entry strategy that will <strong>hook investors and show them you have done your homework and understand your market</strong>&nbsp;&nbsp;</p>\r\n</li>\r\n<li>\r\n<p>Learn how to <strong>build value</strong> that will convince investors that you&rsquo;re worthy of their capital, trust, and time</p>\r\n<p>This webinar tackles the foundational principles of raising funding from any source -- that at least 80% of pitches I have seen lack. Which is why only 10% to 20% will get initial interest after a pitch and few than 5% will ever raise a large amount of capital.</p>\r\n<p>Listening to this free webinar is the closest you can get to increasing your chance of success in capital raising. And after the presentation we will have a Q &amp; A session to address your questions.</p>\r\n</li>\r\n</ul>",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "left",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "51",
+                "left": "",
+                "right": "",
+                "bottom": "0"
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "fade",
+              "animation_direction": "up",
+              "delay": "0",
+              "duration": "1000",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          },
+          "1626406064850": {
+            "settings": {
+              "width": "4",
+              "text": "<h3><span style=\"color: #1a303f;\">About</span> <span style=\"color: #3498db;\">Bob Norton</span></h3>\r\n<p>Serial&nbsp;Entrepreneur, CEO,CEO Coach and&nbsp;Adviser</p>\r\n<ul>\r\n<li>Serial Entrepreneur &amp; CEO since<br />1989. Founded six companies.</li>\r\n<li>Four exits totaling over $1 billion in<br />profits to investors</li>\r\n<li>Grew two startups to $100M and<br />$156M in sales in 5 years and 3 years</li>\r\n<li>Author of four books</li>\r\n<li>Over 125 published articles and<br />produced 300+ training videos</li>\r\n<li>Creator of The CEO &amp; Entrepreneur<br />Boot Camp</li>\r\n<li>Creator of AirTight Management,<br />world's first modular Management<br />Operating System</li>\r\n<li>Angel Investor, Philanthropist,<br />Licensed Pilot, Yacht Racing Captain,<br />Advanced SCUBA Diver</li>\r\n</ul>",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "left",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "0",
+                "left": "",
+                "right": "",
+                "bottom": "28"
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "fade",
+              "animation_direction": "up",
+              "delay": "0",
+              "duration": "1000",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          },
+          "1626480331634": {
+            "settings": {
+              "width": "11",
+              "text": "<h3>Categories of Capital You Can Tap into Depending on Your Stage, Team and Plans</h3>\r\n<p><strong>There are over thirty (yes, 30) <u>categories</u> of sources for funds for your business.</strong>&nbsp;</p>\r\n<p>Venture Capitalists and angel investors get most of the press, but they are a small fraction of business funding. And almost any company should be tapping multiple channels of capital. With a three-to-five-year financing strategy and plan. As growth and scaling requires more capital.&nbsp;</p>\r\n<p>1. Angel investors - $50K to $3 million per round up to $3M with syndicates</p>\r\n<p>2. Venture Capital - $2 million to $50 million in stages</p>\r\n<p>3. Many forms of debt - Bank debt, lines of credit, private debt, hard money, private notes</p>\r\n<p>4.Crowdfunding - Reg A and others. Now up to $10 millions</p>\r\n<p>5. Royalty Financing</p>\r\n<p>6. SPACs, Reverse mergers, public shells</p>\r\n<p>7. Private Placements, Reg D</p>\r\n<p>And 23 other sources of capital . . .</p>\r\n<p>Everything we will teach will help you not just improve your chances of raising capital but will increase your valuation too. And will help with any of these sources.&nbsp; Meaning more equity for you and your team.&nbsp;</p>",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "true",
+              "text_align": "left",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          }
+        }
+      },
+      "1606170016354": {
+        "block_order": [
+          "1606170016354_0",
+          "1626481530909"
+        ],
+        "settings": {
+          "bg_type": "none",
+          "bg_video": "",
+          "bg_image": "themes/2148335099/settings_images/2rXzDOh8ScOy56wt6r0b_Money2-_X1200.jpg",
+          "bg_position": "center",
+          "background_fixed": "false",
+          "background_color": "#102e42",
+          "hide_on_desktop": "false",
+          "padding_desktop": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "vertical": "center",
+          "horizontal": "center",
+          "equal_height": "false",
+          "full_width": "false",
+          "full_height": "false",
+          "hide_on_mobile": "false",
+          "padding_mobile": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "reveal_event": "",
+          "reveal_offset": "",
+          "reveal_units": "seconds"
+        },
+        "type": "section",
+        "hidden": "false",
+        "name": "EventCountdown+SignupButton",
+        "blocks": {
+          "1606170016354_0": {
+            "settings": {
+              "width": "11",
+              "text": "<h1><span style=\"color: #ecf0f1;\">What are you waiting for?</span></h1>\r\n<h3><span style=\"color: #ecf0f1;\">Register Now. Seats Are Limited.&nbsp;</span></h3>",
+              "use_btn": "true",
+              "btn_text": "Sign Up Now",
+              "btn_action": "#section-1626476708856",
+              "new_tab": "false",
+              "btn_background_color": "#27ae60",
+              "btn_text_color": "#ffffff",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "center",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "fade",
+              "animation_direction": "up",
+              "delay": "0",
+              "duration": "1000",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          },
+          "1626481530909": {
+            "settings": {
+              "width": "10",
+              "event": "2147532505",
+              "style": "",
+              "enable_end_action": "false",
+              "end_action": "",
+              "remove_section_on_complete": "false",
+              "number_background_color": "",
+              "number_color": "",
+              "number_border_radius": "4",
+              "label_color": "",
+              "days": "DAYS",
+              "hours": "HOURS",
+              "minutes": "MINS",
+              "seconds": "SECS",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "center",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "countdown",
+            "name": "Countdown",
+            "hidden": "false"
+          }
+        }
+      },
+      "1626476708856": {
+        "block_order": [
+          "1626476708856_0",
+          "1626476842680"
+        ],
+        "settings": {
+          "bg_type": "none",
+          "bg_video": "",
+          "bg_image": "",
+          "bg_position": "center",
+          "background_fixed": "false",
+          "background_color": "",
+          "hide_on_desktop": "false",
+          "padding_desktop": {
+            "top": "0",
+            "left": "",
+            "right": "",
+            "bottom": "0"
+          },
+          "vertical": "center",
+          "horizontal": "center",
+          "equal_height": "false",
+          "full_width": "false",
+          "full_height": "false",
+          "hide_on_mobile": "false",
+          "padding_mobile": {
+            "top": "",
+            "left": "",
+            "right": "",
+            "bottom": ""
+          },
+          "reveal_event": "",
+          "reveal_offset": "",
+          "reveal_units": "seconds"
+        },
+        "type": "section",
+        "hidden": "false",
+        "name": "Text: header",
+        "blocks": {
+          "1626476708856_0": {
+            "settings": {
+              "width": "6",
+              "text": "<h4><span style=\"color: #127ac8;\">The CEO &amp; Entrepreneurship</span>&nbsp;<span style=\"color: #2a4158;\">Webinar</span></h4>",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "left",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "0",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          },
+          "1626476842680": {
+            "settings": {
+              "width": "5",
+              "text": "<h5 style=\"text-align: right;\"><span style=\"color: #2a4158;\">HURRY UP ONLY</span> <span style=\"color: #127ac8;\">50</span> <span style=\"color: #2a4158;\">SEATS LEFT</span></h5>",
+              "use_btn": "false",
+              "btn_text": "Call To Action",
+              "btn_action": "",
+              "new_tab": "false",
+              "btn_background_color": "",
+              "btn_text_color": "",
+              "btn_border_radius": "",
+              "drop_cap": "false",
+              "cap_color": "",
+              "background_color": "",
+              "border_type": "none",
+              "border_width": "4",
+              "border_color": "",
+              "border_radius": "4",
+              "box_shadow": "none",
+              "hide_on_desktop": "false",
+              "text_align": "left",
+              "padding_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_desktop": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "make_flush": "false",
+              "make_block": "false",
+              "hide_on_mobile": "false",
+              "mobile_text_align": "left",
+              "padding_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "margin_mobile": {
+                "top": "",
+                "left": "",
+                "right": "",
+                "bottom": ""
+              },
+              "animation_type": "none",
+              "animation_direction": "none",
+              "delay": "0",
+              "duration": "0",
+              "reveal_event": "",
+              "reveal_offset": "",
+              "reveal_units": "seconds"
+            },
+            "type": "text",
+            "name": "Text",
+            "hidden": "false"
+          }
+        }
+      }
+    },
+    "content_for_index": [
+      "",
+      "1626476708856",
+      "1606169525641",
+      "1606169938567",
+      "1606169791066",
+      "1606170016354"
+    ],
+    "favicon": "",
+    "color_primary": "#0072EF",
+    "font_family_body": "Open Sans",
+    "font_weight_body": "400",
+    "line_height_body": "1.6",
+    "font_family_heading": "Montserrat",
+    "font_weight_heading": "700",
+    "line_height_heading": "1.2",
+    "color_body": "#595959",
+    "color_heading": "#161E2A",
+    "font_size_h1_desktop": "72px",
+    "font_size_h2_desktop": "36px",
+    "font_size_h3_desktop": "30px",
+    "font_size_h4_desktop": "24px",
+    "font_size_h5_desktop": "20px",
+    "font_size_h6_desktop": "16px",
+    "font_size_body_desktop": "18px",
+    "font_size_h1_mobile": "36px",
+    "font_size_h2_mobile": "30px",
+    "font_size_h3_mobile": "24px",
+    "font_size_h4_mobile": "20px",
+    "font_size_h5_mobile": "18px",
+    "font_size_h6_mobile": "16px",
+    "font_size_body_mobile": "16px",
+    "error_message_text_color": "#ffffff",
+    "error_message_background_color": "#ff0000",
+    "show_guides": "true",
+    "show_grid": "false",
+    "css": "/* CSS Overrides go here */",
+    "js": "/* Javascript code goes here */",
+    "btn_background_color": "#ea4c89",
+    "btn_text_color": "#ffffff",
+    "btn_width": "auto",
+    "btn_style": "solid",
+    "btn_size": "medium",
+    "btn_border_radius": "50",
+    "color_body_secondary": "#888888",
+    "color_placeholder": "#cccccc",
+    "background_color": "",
+    "use_background_image": "false",
+    "background_image": ""
+  }
+}
